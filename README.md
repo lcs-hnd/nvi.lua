@@ -1,4 +1,4 @@
-# personal config
+# Personal config
 Using ZSA Moonlander MK.I. 
 Layout config listed down below.
 

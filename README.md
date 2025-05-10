@@ -1,11 +1,11 @@
-# kickstart.nvim
-Using Moonlander MK.I, check down below for my specific keyboard layout if you'd like.
+# personal config
+Using ZSA Moonlander MK.I. 
+Layout config listed down below.
 
 
 ## Installation
 
-Installation isntructions from the forked repo.
-The gitignore for *lazy-lock.json* has already been removed.
+Reference this video: (https://www.youtube.com/watch?v=m8C0Cq9Uv9o)
 
 ### Install Neovim
 

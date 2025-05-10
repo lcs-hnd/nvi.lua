@@ -5,7 +5,7 @@ Layout config listed down below.
 
 ## Installation
 
-Reference this video: (https://www.youtube.com/watch?v=m8C0Cq9Uv9o)
+Reference this [video](https://www.youtube.com/watch?v=m8C0Cq9Uv9o).
 
 ### Install Neovim
 
@@ -29,7 +29,7 @@ External Requirements:
   - etc.
 
 > [!NOTE]
-> See [Install Recipes](#Install-Recipes) for additional Windows and Linux specific notes
+> See [Install Recipes](#-RInstallecipes) for additional Windows and Linux specific notes
 > and quick install snippets
 
 ### Install Kickstart

@@ -1,7 +1,11 @@
 # kickstart.nvim
 Using Moonlander MK.I, check down below for my specific keyboard layout if you'd like.
 
+
 ## Installation
+
+Installation isntructions from the forked repo.
+The gitignore for *lazy-lock.json* has already been removed.
 
 ### Install Neovim
 
